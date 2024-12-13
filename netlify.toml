@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/auth/callback"
+  to = "/"
+  status = 200
